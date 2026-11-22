@@ -1,0 +1,163 @@
+
+input[type="file"] {
+  display: block;
+  width: 100%;
+  padding: 18px;
+  border: 2px dashed #ff8bd1;
+  border-radius: 14px;
+  background: linear-gradient(
+    135deg,
+    #6d28d9,
+    #9333ea,
+    #c026d3
+  );
+  color: white;
+  margin-bottom: 22px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+input[type="file"]::file-selector-button {
+  background: #ffffff;
+  color: #7e22ce;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  margin-right: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.upload-card {
+  width: 90%;
+  max-width: 750px;
+  margin: 30px auto;
+  padding: 35px;
+  box-sizing: border-box;
+  background: linear-gradient(135deg, #312e81, #6d28d9, #9333ea);
+  border: 2px solid #c4b5fd;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(109, 40, 217, 0.3);
+}
+
+input[type="file"] {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 18px;
+  background: #7e22ce;
+  color: white;
+  border: 2px dashed #f0abfc;
+  border-radius: 12px;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(
+    135deg,
+    #0f172a,
+    #312e81,
+    #6d28d9,
+    #9333ea
+  );
+  background-attachment: fixed;
+}
+
+.App {
+  min-height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  background: transparent;
+}
+
+/* Main webpage text */
+.App {
+  color: #ffffff;
+}
+
+.App h1,
+.App h2,
+.App h3,
+.App p,
+.App label {
+  color: #ffffff;
+}
+
+/* Upload status and document ID */
+.status,
+.document-id {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* Chat messages */
+.chat-message {
+  color: #ffffff;
+}
+
+.chat-message strong {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.chat-message p {
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+/* Input text */
+textarea {
+  color: #ffffff;
+  background: #312e81;
+  border: 1px solid #c4b5fd;
+}
+
+textarea::placeholder {
+  color: #ddd6fe;
+}
+
+/* Footer */
+.footer {
+  color: #e9d5ff;
+}
+
+.sources-section {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #c4b5fd;
+}
+
+.sources-section h4 {
+  color: #f0abfc;
+  margin-bottom: 12px;
+}
+
+.source-card {
+  background: rgba(15, 23, 42, 0.75);
+  border: 1px solid #a78bfa;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 12px;
+}
+
+.source-card strong {
+  color: #f0abfc;
+}
+
+.source-card p {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1.7;
+  white-space: pre-wrap;
+}
