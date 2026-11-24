@@ -158,5 +158,12 @@ AI & Machine Learning Student
 **Project:** AI Document Intelligence
 
 ---
+## OUTPUT
+<img width="1917" height="962" alt="Screenshot 2026-11-22 225352" src="https://github.com/user-attachments/assets/178d7e31-4f6c-4a5c-b684-126b045f71b8" />
+<img width="1907" height="963" alt="Screenshot 2026-11-22 225417" src="https://github.com/user-attachments/assets/5da514a0-ffb6-4f6b-8daa-194c3983d631" />
+<img width="1897" height="962" alt="Screenshot 2026-11-22 225906" src="https://github.com/user-attachments/assets/6b767e95-0567-47bf-9c2c-a57d94adfdeb" />
+<img width="1911" height="966" alt="Screenshot 2026-11-22 230149" src="https://github.com/user-attachments/assets/102d9059-29df-46ee-b360-864be74a5a91" />
+<img width="1896" height="958" alt="Screenshot 2026-11-22 230201" src="https://github.com/user-attachments/assets/4159218c-d416-49de-8e9b-0eb5a54c9e48" />
+
 
 ⭐ If you find this project interesting, feel free to explore the repository!
